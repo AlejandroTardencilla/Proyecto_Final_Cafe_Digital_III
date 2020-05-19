@@ -45,6 +45,7 @@ nav {
 	width: 50%;
 	text-align: right;
 	margin-right: 25px;
+	font-family: "source-sans-pro";
 }
 header nav ul {
 	list-style: none;
@@ -116,6 +117,7 @@ ul li:hover a {
 	display: inline-block;
 	background-color: #FFFFFF;
 	margin-top: 0px;
+	font-family: "source-sans-pro";
 }
 /* Stats Gallery */
 .stats {

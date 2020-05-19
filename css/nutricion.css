@@ -45,6 +45,7 @@ nav {
 	width: 50%;
 	text-align: right;
 	margin-right: 25px;
+	font-family: "source-sans-pro";
 }
 header nav ul {
 	list-style: none;
@@ -121,6 +122,7 @@ ul li:hover a {
 	width: 100%;
 	background-color: #FFFFFF;
 	text-align: center;
+	font-family: "source-sans-pro";
 	/* [disabled]min-width: 400px;
 */
 	padding-bottom: 35px;
@@ -130,6 +132,7 @@ ul li:hover a {
 }
 .parrafoarabico{
 	justify-content: flex-end;
+	font-family: "source-sans-pro";
 }
 .thumbnail {
 	width: 25%;
