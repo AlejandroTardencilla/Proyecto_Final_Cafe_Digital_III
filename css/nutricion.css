@@ -12,11 +12,12 @@ body {
 }
 /* Container */
 .container {
-	width: 90%;
+	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
 	height: 1000px;
 	background-color: #FFFFFF;
+	font-family: "source-sans-pro"
 }
 .logoeduardo {
 	float: left;
