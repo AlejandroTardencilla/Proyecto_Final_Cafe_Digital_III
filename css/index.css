@@ -16,7 +16,7 @@ body {
 	margin-right: auto;
 	height: 1000px;
 	background-color: #FFFFFF;
-	font-family: "source-sans-pro"
+	font-family:"source-sans-pro";
 }
 .logoeduardo {
 	float: left;
@@ -64,6 +64,7 @@ nav ul li {
 ul li a {
 	color: #FFFFFF;
 	text-decoration: none;
+	font-family: "source-sans-pro"
 }
 ul li:hover a {
 	color: #2C9AB7;
